@@ -20,11 +20,11 @@ body{
 }
 
 .titulo2{
-    color: whitesmoke ;
+    color: white ;
     font-family: 'Times New Roman', Times, serif;
 }
 .principal{
-background-color: rgb(210, 180, 140);
+background-color: red;
 padding: 30px;
 margin: 0px;
 }
