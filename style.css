@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 
 
@@ -16,4 +17,20 @@ body{
     background-color: darkturquoise;
     padding: 20px;
     margin: 0px;
+}
+
+.titulo2{
+    color:magenta ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.principal{
+background-color: burlywood;
+padding: 30px;
+}
+
+
+
+
+.beneficios{
+
 }
