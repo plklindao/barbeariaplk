@@ -13,14 +13,14 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: white;
+    color: whitesmoke;
     background-color: rgb(210, 180, 140);
     padding: 20px;
     margin: 0px;
 }
 
 .titulo2{
-    color: white ;
+    color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
 }
 .principal{
@@ -33,6 +33,7 @@ margin: 0px;
 
 
 .beneficios{
+    color: whitesmoke;
     background-color: rgb(210, 180, 140);
     padding: 30px;
     margin: 0;
@@ -41,5 +42,8 @@ margin: 0px;
 }
 
 ul{
-
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
