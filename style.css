@@ -20,6 +20,7 @@ body{
 }
 
 .titulo2{
+    text-align: center;
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -49,10 +50,10 @@ ul{
 }
  
 
-    itens{
+    .itens{
         font-size: italic;
     }
 
-    imagembeneficios{
+    .imagembeneficios{
         width: 50%;
     }
