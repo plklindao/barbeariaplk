@@ -13,18 +13,18 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: darkgrey;
+    color: red;
     background-color: darkturquoise;
     padding: 20px;
     margin: 0px;
 }
 
 .titulo2{
-    color:magenta ;
+    color: red ;
     font-family: 'Times New Roman', Times, serif;
 }
 .principal{
-background-color: burlywood;
+background-color: darkturquoise;
 padding: 30px;
 }
 
