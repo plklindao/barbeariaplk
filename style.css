@@ -31,8 +31,9 @@ body {
 
 .beneficios {
     background-color: rgb(105, 105, 105);
-    padding: 30px;
+    padding: 20px;
     margin: 0;
+    text-align: center;
 }
 
 .principal ul {
