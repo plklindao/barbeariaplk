@@ -1,63 +1,101 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
 }
 
-
-
-#banner{
+#banner {
     width: 100%;
 }
 
-.titulo-principal{
+.titulo-principal {
     text-transform: uppercase;
     text-align: center;
     color: whitesmoke;
-    background-color: rgb(105,105,105);
+    background-color: rgb(105, 105, 105);
     padding: 20px;
     margin: 0px;
 }
 
-.titulo2{
+.titulo2 {
     text-align: center;
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
 }
-.principal{
-background-color: rgb(105,105,105);
-padding: 30px;
-margin: 0px;
+
+.principal {
+    background-color: rgb(105, 105, 105);
+    padding: 30px;
+    margin: 0px;
 }
 
 
 
 
-.beneficios{
-    background-color: rgb(105,105,105);
+.beneficios {
+    background-color: rgb(105, 105, 105);
     padding: 30px;
     margin: 0;
-
-
 }
 
-ul{
+.principal ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
     line-height: 1.5;
 }
- 
 
-    .itens{
-        font-size: italic;
-    }
 
-    .imagembeneficios{
-        width: 30%;
-    }
+.itens {
+    font-size: italic;
+}
 
-    p{
-        text-align: center;
-    }
+.imagembeneficios {
+    width: 30%;
+}
+
+p {
+    text-align: center;
+}
+
+/*  menu  */
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background:gold;
+    padding: 20px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c91e2c;
+    text-decoration: underline;
+}
