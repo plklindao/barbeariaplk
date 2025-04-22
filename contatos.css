@@ -11,5 +11,5 @@ h1{
 
 form{
   width: 50%;
-  margin: auto;
+  margin: 50px auto; /* centraliza horizontalmente e adiciona margem superior */
 }
