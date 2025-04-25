@@ -20,5 +20,10 @@ form{
   background-color: #f9f9f9;
 }
 
-
+button{
+  border-bottom: 500px;
+  border-style: none;
+  width: 800px;
+  border-radius: 700px;
+}
 
